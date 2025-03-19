@@ -19,5 +19,5 @@
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-lima-aa67b0243/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdouglasglima)  
-## 📄 [Baixe meu Currículo](https://drive.google.com/file/d/1-n2thabEJy-ZuHLW-wP3LTYauOTow9Qi/view?usp=sharing)
+## 📄 [Baixe meu Currículo](https://drive.google.com/file/d/1T1nutIUuAtUqnYs5vESev-VD2dQvcd3-/view?usp=sharing)
 ---
